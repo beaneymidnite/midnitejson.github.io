@@ -2,92 +2,120 @@
   {
     "content": [
       {
-        "contract_id": 33426901,
-        "id": 33426901,
-        "market_id": 15523970,
-        "match": {
-          "away_team": "Coventry City",
-          "away_team_id": 8972,
-          "competition_id": 2088,
-          "competition_name": "England Championship",
-          "displayed_format": "",
-          "game_id": 23,
-          "game_name": "Football",
-          "home_team": "Nottingham Forest",
-          "home_team_id": 8978,
-          "id": 472636,
-          "live_enabled": true,
-          "main_market_id": 15523970,
-          "market": {
-            "contracts": [
-              {
-                "display_order": 0,
-                "id": 33426901,
-                "market_id": 15523970,
-                "max_bet": "203.00",
-                "name": "Nottingham Forest",
-                "price": "1.90",
-                "raw_status": "open",
-                "status": "open"
-              }
-            ],
-            "display_order": 2,
-            "id": 15523970,
-            "match_id": 472636,
-            "name": "Match Result",
-            "popular": true,
-            "status": "open"
-          },
-          "name": "Nottingham Forest v Coventry City",
-          "num_bets_placed": 27,
-          "start_time": "2022-04-06T18:45:00.000000Z",
-          "status": "upcoming",
-          "type": "match"
-        }
+        "away_image_url": "https://s3-eu-west-1.amazonaws.com/midnite.com/teams/placeholder_red_team.png",
+        "away_score": "0",
+        "away_team": "Nut-E Gaming",
+        "away_team_id": 18312,
+        "best_of": 3,
+        "competition_id": 2892,
+        "competition_name": "LPL Pro League",
+        "displayed_format": "BO3",
+        "favourite": false,
+        "game_id": 2,
+        "game_name": "Counter-Strike",
+        "home_image_url": "https://d1dewv214im63w.cloudfront.net/teams/antic-logo.png",
+        "home_score": "0",
+        "home_team": "Antic Esports",
+        "home_team_id": 18696,
+        "id": 474014,
+        "live_enabled": true,
+        "main_market_id": 15555900,
+        "market": {
+          "bet_delay": 9,
+          "contracts": [
+            {
+              "display_order": 0,
+              "id": 33496520,
+              "market_id": 15555900,
+              "max_bet": "406.00",
+              "name": "Antic Esports",
+              "price": "1.19",
+              "raw_status": "open",
+              "status": "halted"
+            },
+            {
+              "display_order": 10,
+              "id": 33496521,
+              "market_id": 15555900,
+              "max_bet": "58.00",
+              "name": "Nut-E Gaming",
+              "price": "3.95",
+              "raw_status": "open",
+              "status": "halted"
+            }
+          ],
+          "display_order": 0,
+          "id": 15555900,
+          "match_id": 474014,
+          "name": "Match Winner",
+          "popular": true,
+          "status": "halted"
+        },
+        "name": "Antic Esports v Nut-E Gaming",
+        "num_bets_placed": 11,
+        "num_markets": 8,
+        "start_time": "2022-04-06T08:30:00.000000Z",
+        "status": "live",
+        "stream_url": "https://player.twitch.tv/?channel=lpl_csgo",
+        "twitch_channel": "lpl_csgo",
+        "type": "match"
       },
       {
-        "contract_id": 33528746,
-        "id": 33528746,
-        "market_id": 15571265,
-        "match": {
-          "away_team": "Granada CF",
-          "away_team_id": 9203,
-          "competition_id": 2121,
-          "competition_name": "Spain La Liga",
-          "displayed_format": "",
-          "game_id": 23,
-          "game_name": "Football",
-          "home_team": "Sevilla",
-          "home_team_id": 9165,
-          "id": 474635,
-          "live_enabled": true,
-          "main_market_id": 15571265,
-          "market": {
-            "contracts": [
-              {
-                "display_order": 0,
-                "id": 33528746,
-                "market_id": 15571265,
-                "max_bet": "638.00",
-                "name": "Sevilla",
-                "price": "1.41",
-                "raw_status": "open",
-                "status": "open"
-              }
-            ],
-            "display_order": 2,
-            "id": 15571265,
-            "match_id": 474635,
-            "name": "Match Result",
-            "popular": true,
-            "status": "open"
-          },
-          "name": "Sevilla v Granada CF",
-          "num_bets_placed": 11,
-          "start_time": "2022-04-08T19:00:00.000000Z",
-          "status": "upcoming",
-          "type": "match"
-        }
+        "away_image_url": "https://s3-eu-west-1.amazonaws.com/midnite.com/teams/placeholder_red_team.png",
+        "away_score": "0",
+        "away_team": "Keepbest Gaming",
+        "away_team_id": 18624,
+        "best_of": 3,
+        "competition_id": 2263,
+        "competition_name": "Wild Rift League",
+        "displayed_format": "BO3",
+        "favourite": false,
+        "game_id": 32,
+        "game_name": "Wild Rift",
+        "home_image_url": "https://d1dewv214im63w.cloudfront.net/teams/jd-gaming-logo.png",
+        "home_score": "0",
+        "home_team": "JD Gaming",
+        "home_team_id": 15153,
+        "id": 473975,
+        "live_enabled": true,
+        "main_market_id": 15552232,
+        "market": {
+          "bet_delay": 9,
+          "contracts": [
+            {
+              "display_order": 0,
+              "id": 33489143,
+              "market_id": 15552232,
+              "max_bet": "174.00",
+              "name": "JD Gaming",
+              "price": "1.27",
+              "raw_status": "open",
+              "status": "open"
+            },
+            {
+              "display_order": 10,
+              "id": 33489144,
+              "market_id": 15552232,
+              "max_bet": "29.00",
+              "name": "Keepbest Gaming",
+              "price": "3.15",
+              "raw_status": "open",
+              "status": "open"
+            }
+          ],
+          "display_order": 0,
+          "id": 15552232,
+          "match_id": 473975,
+          "name": "Match Winner",
+          "popular": true,
+          "status": "live"
+        },
+        "name": "JD Gaming v Keepbest Gaming",
+        "num_bets_placed": 91,
+        "num_markets": 8,
+        "start_time": "2022-04-06T09:13:00.000000Z",
+        "status": "live",
+        "type": "match"
       }
     ],
     "content_type": "MATCH",
@@ -182,85 +210,6 @@
     "section": "homepage",
     "template": "horizontal_matches",
     "title": "England Premier League",
-    "weight": 80
-  },
-  {
-    "content": [
-      {
-        "away_team": "Ghana",
-        "away_team_id": 11191,
-        "competition_id": 2452,
-        "competition_name": "World Cup Africa Qualifiers",
-        "displayed_format": "",
-        "favourite": false,
-        "game_id": 23,
-        "game_name": "Football",
-        "home_team": "Nigeria",
-        "home_team_id": 11093,
-        "id": 468996,
-        "live_enabled": true,
-        "main_market_id": 15426542,
-        "market": {
-          "contracts": [
-            {
-              "display_order": 0,
-              "id": 33211829,
-              "market_id": 15426542,
-              "max_bet": "174.00",
-              "name": "Nigeria",
-              "price": "2.06",
-              "raw_status": "open",
-              "status": "open"
-            },
-            {
-              "display_order": 10,
-              "id": 33211830,
-              "market_id": 15426542,
-              "max_bet": "87.00",
-              "name": "Draw",
-              "price": "2.84",
-              "raw_status": "open",
-              "status": "open"
-            },
-            {
-              "display_order": 20,
-              "id": 33211831,
-              "market_id": 15426542,
-              "max_bet": "58.00",
-              "name": "Ghana",
-              "price": "4.20",
-              "raw_status": "open",
-              "status": "open"
-            }
-          ],
-          "display_order": 2,
-          "id": 15426542,
-          "match_id": 468996,
-          "name": "Match Result",
-          "popular": true,
-          "status": "open"
-        },
-        "name": "Nigeria v Ghana",
-        "num_bets_placed": 89,
-        "num_markets": 16,
-        "start_time": "2022-03-29T17:00:00.000000Z",
-        "status": "upcoming",
-        "type": "match"
-      }
-    ],
-    "content_type": "MATCH",
-    "display": "all",
-    "game_type": "sport",
-    "icon": "https://d1dewv214im63w.cloudfront.net/games/icons/Football.png",
-    "id": 141,
-    "route": {
-      "competition_id": 2452,
-      "game_slug": "football",
-      "name": "competition"
-    },
-    "section": "homepage",
-    "template": "horizontal_matches",
-    "title": "World Cup Africa Qualifiers",
     "weight": 80
   }
 ]
