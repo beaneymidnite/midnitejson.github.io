@@ -1,0 +1,2371 @@
+{
+    "data": [
+        {
+            "id": 36092313,
+            "name": "Atalanta v Club Brugge",
+            "type": "match",
+            "slug": "atalanta-v-club-brugge",
+            "start_time": "2025-09-30T16:45:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 188,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1241496844,
+            "home_team": "Atalanta",
+            "away_team": "Club Brugge",
+            "home_team_id": 9184,
+            "away_team_id": 9661,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Atlanta_95cb3b4934.png?updated_at=2023-03-20T13:51:00.304Z",
+            "away_image_url": "https://assets.midnite.com/cms/Club_Brugge_c524a7ab03.png",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369733,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1241496844,
+                "match_id": 36092313,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4833349743,
+                        "name": "Atalanta",
+                        "market_id": 1241496844,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.85",
+                            "decimal_display": "1.85",
+                            "fractional": "17/20",
+                            "fractional_display": "17/20"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.85",
+                            "decimal_display": "1.85",
+                            "fractional": "17/20",
+                            "fractional_display": "17/20"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 9184,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4833349744,
+                        "name": "Draw",
+                        "market_id": 1241496844,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.75",
+                            "decimal_display": "3.75",
+                            "fractional": "11/4",
+                            "fractional_display": "11/4"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.75",
+                            "decimal_display": "3.75",
+                            "fractional": "11/4",
+                            "fractional_display": "11/4"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4833349745,
+                        "name": "Club Brugge",
+                        "market_id": 1241496844,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.75",
+                            "decimal_display": "3.75",
+                            "fractional": "11/4",
+                            "fractional_display": "11/4"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.75",
+                            "decimal_display": "3.75",
+                            "fractional": "11/4",
+                            "fractional_display": "11/4"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 9661,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": true,
+                "betbuilder_availability": "all",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36092374,
+            "name": "FC Kairat Almaty v Real Madrid",
+            "type": "match",
+            "slug": "fc-kairat-almaty-v-real-madrid",
+            "start_time": "2025-09-30T16:45:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 189,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1241492978,
+            "home_team": "FC Kairat Almaty",
+            "away_team": "Real Madrid",
+            "home_team_id": 12407,
+            "away_team_id": 9214,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Kairat_66393390e6.png",
+            "away_image_url": "https://assets.midnite.com/cms/Real_Madrid_1971086ff9.png?updated_at=2023-03-07T17:04:14.199Z",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369731,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1241492978,
+                "match_id": 36092374,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4833334237,
+                        "name": "FC Kairat Almaty",
+                        "market_id": 1241492978,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "21",
+                            "decimal_display": "21.00",
+                            "fractional": "20/1",
+                            "fractional_display": "20/1"
+                        },
+                        "raw_prices": {
+                            "decimal": "21",
+                            "decimal_display": "21.00",
+                            "fractional": "20/1",
+                            "fractional_display": "20/1"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 12407,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4833334238,
+                        "name": "Draw",
+                        "market_id": 1241492978,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "9",
+                            "decimal_display": "9.00",
+                            "fractional": "8/1",
+                            "fractional_display": "8/1"
+                        },
+                        "raw_prices": {
+                            "decimal": "9",
+                            "decimal_display": "9.00",
+                            "fractional": "8/1",
+                            "fractional_display": "8/1"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4833334239,
+                        "name": "Real Madrid",
+                        "market_id": 1241492978,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.0909090909",
+                            "decimal_display": "1.09",
+                            "fractional": "1/11",
+                            "fractional_display": "1/11"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.0909090909",
+                            "decimal_display": "1.09",
+                            "fractional": "1/11",
+                            "fractional_display": "1/11"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 9214,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": true,
+                "betbuilder_availability": "all",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36092213,
+            "name": "Chelsea v Benfica",
+            "type": "match",
+            "slug": "chelsea-v-benfica",
+            "start_time": "2025-09-30T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 187,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1241490449,
+            "home_team": "Chelsea",
+            "away_team": "Benfica",
+            "home_team_id": 8906,
+            "away_team_id": 9662,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Chelsea_8ca55a0603.png",
+            "away_image_url": "https://assets.midnite.com/cms/Benfica_e2ca91ec88.png?updated_at=2023-03-07T17:04:14.021Z",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369737,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1241490449,
+                "match_id": 36092213,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4833323409,
+                        "name": "Chelsea",
+                        "market_id": 1241490449,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.5714285714",
+                            "decimal_display": "1.57",
+                            "fractional": "4/7",
+                            "fractional_display": "4/7"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.5714285714",
+                            "decimal_display": "1.57",
+                            "fractional": "4/7",
+                            "fractional_display": "4/7"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 8906,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4833323410,
+                        "name": "Draw",
+                        "market_id": 1241490449,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "4",
+                            "decimal_display": "4.00",
+                            "fractional": "3/1",
+                            "fractional_display": "3/1"
+                        },
+                        "raw_prices": {
+                            "decimal": "4",
+                            "decimal_display": "4.00",
+                            "fractional": "3/1",
+                            "fractional_display": "3/1"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4833323411,
+                        "name": "Benfica",
+                        "market_id": 1241490449,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "5.25",
+                            "decimal_display": "5.25",
+                            "fractional": "17/4",
+                            "fractional_display": "17/4"
+                        },
+                        "raw_prices": {
+                            "decimal": "5.25",
+                            "decimal_display": "5.25",
+                            "fractional": "17/4",
+                            "fractional_display": "17/4"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 9662,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": true,
+                "betbuilder_availability": "all",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36092269,
+            "name": "Internazionale v SK Slavia Praha",
+            "type": "match",
+            "slug": "internazionale-v-sk-slavia-praha",
+            "start_time": "2025-09-30T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 185,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1241491951,
+            "home_team": "Internazionale",
+            "away_team": "SK Slavia Praha",
+            "home_team_id": 9246,
+            "away_team_id": 9665,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Inter_5a14479856.png?updated_at=2023-03-07T17:04:14.263Z",
+            "away_image_url": "https://assets.midnite.com/cms/Slavia_Praha_aade70f4ba.png",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": null,
+            "market": {
+                "id": 1241491951,
+                "match_id": 36092269,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4833329527,
+                        "name": "Internazionale",
+                        "market_id": 1241491951,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.3333333333",
+                            "decimal_display": "1.33",
+                            "fractional": "1/3",
+                            "fractional_display": "1/3"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.3333333333",
+                            "decimal_display": "1.33",
+                            "fractional": "1/3",
+                            "fractional_display": "1/3"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 9246,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4833329528,
+                        "name": "Draw",
+                        "market_id": 1241491951,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "5",
+                            "decimal_display": "5.00",
+                            "fractional": "4/1",
+                            "fractional_display": "4/1"
+                        },
+                        "raw_prices": {
+                            "decimal": "5",
+                            "decimal_display": "5.00",
+                            "fractional": "4/1",
+                            "fractional_display": "4/1"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4833329529,
+                        "name": "SK Slavia Praha",
+                        "market_id": 1241491951,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "8.5",
+                            "decimal_display": "8.50",
+                            "fractional": "15/2",
+                            "fractional_display": "15/2"
+                        },
+                        "raw_prices": {
+                            "decimal": "8.5",
+                            "decimal_display": "8.50",
+                            "fractional": "15/2",
+                            "fractional_display": "15/2"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 9665,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": true,
+                "betbuilder_availability": "all",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36153268,
+            "name": "Bod\u00f8/Glimt v Tottenham Hotspur",
+            "type": "match",
+            "slug": "bodo-glimt-v-tottenham-hotspur",
+            "start_time": "2025-09-30T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 213,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244856344,
+            "home_team": "Bod\u00f8/Glimt",
+            "away_team": "Tottenham Hotspur",
+            "home_team_id": 41002,
+            "away_team_id": 8902,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/FK_Bodo_Glimt_58bce46abd.png",
+            "away_image_url": "https://assets.midnite.com/cms/Tottenham_Hotspur_dcbc4382f1.png",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369741,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244856344,
+                "match_id": 36153268,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4846930687,
+                        "name": "Bod\u00f8/Glimt",
+                        "market_id": 1244856344,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.1",
+                            "decimal_display": "3.10",
+                            "fractional": "21/10",
+                            "fractional_display": "21/10"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.1",
+                            "decimal_display": "3.10",
+                            "fractional": "21/10",
+                            "fractional_display": "21/10"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 41002,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4846930688,
+                        "name": "Draw",
+                        "market_id": 1244856344,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.6",
+                            "decimal_display": "3.60",
+                            "fractional": "13/5",
+                            "fractional_display": "13/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.6",
+                            "decimal_display": "3.60",
+                            "fractional": "13/5",
+                            "fractional_display": "13/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4846930689,
+                        "name": "Tottenham Hotspur",
+                        "market_id": 1244856344,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "2.1",
+                            "decimal_display": "2.10",
+                            "fractional": "11/10",
+                            "fractional_display": "11/10"
+                        },
+                        "raw_prices": {
+                            "decimal": "2.1",
+                            "decimal_display": "2.10",
+                            "fractional": "11/10",
+                            "fractional_display": "11/10"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 8902,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": true,
+                "betbuilder_availability": "all",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36153353,
+            "name": "Atl\u00e9tico de Madrid v Eintracht Frankfurt",
+            "type": "match",
+            "slug": "atletico-de-madrid-v-eintracht-frankfurt",
+            "start_time": "2025-09-30T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 187,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244862885,
+            "home_team": "Atl\u00e9tico de Madrid",
+            "away_team": "Eintracht Frankfurt",
+            "home_team_id": 9195,
+            "away_team_id": 9169,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Athletico_Madrid_b6d6cda9cd.png?updated_at=2023-03-27T09:47:29.647Z",
+            "away_image_url": "https://assets.midnite.com/cms/Eintracht_Frankfurt_6fafa9899a.png?updated_at=2023-03-07T17:04:14.098Z",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369735,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244862885,
+                "match_id": 36153353,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4846956580,
+                        "name": "Atl\u00e9tico de Madrid",
+                        "market_id": 1244862885,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.6666666667",
+                            "decimal_display": "1.67",
+                            "fractional": "4/6",
+                            "fractional_display": "4/6"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.6666666667",
+                            "decimal_display": "1.67",
+                            "fractional": "4/6",
+                            "fractional_display": "4/6"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 9195,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4846956581,
+                        "name": "Draw",
+                        "market_id": 1244862885,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.9",
+                            "decimal_display": "3.90",
+                            "fractional": "29/10",
+                            "fractional_display": "29/10"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.9",
+                            "decimal_display": "3.90",
+                            "fractional": "29/10",
+                            "fractional_display": "29/10"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4846956582,
+                        "name": "Eintracht Frankfurt",
+                        "market_id": 1244862885,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "4.8",
+                            "decimal_display": "4.80",
+                            "fractional": "19/5",
+                            "fractional_display": "19/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "4.8",
+                            "decimal_display": "4.80",
+                            "fractional": "19/5",
+                            "fractional_display": "19/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 9169,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": true,
+                "betbuilder_availability": "all",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36153380,
+            "name": "Paphos FC v FC Bayern M\u00fcnchen",
+            "type": "match",
+            "slug": "paphos-fc-v-fc-bayern-munchen",
+            "start_time": "2025-09-30T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 188,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244865204,
+            "home_team": "Paphos FC",
+            "away_team": "FC Bayern M\u00fcnchen",
+            "home_team_id": 133639,
+            "away_team_id": 9159,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": null,
+            "away_image_url": null,
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369747,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244865204,
+                "match_id": 36153380,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4846964681,
+                        "name": "Paphos FC",
+                        "market_id": 1244865204,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "17",
+                            "decimal_display": "17.00",
+                            "fractional": "16/1",
+                            "fractional_display": "16/1"
+                        },
+                        "raw_prices": {
+                            "decimal": "17",
+                            "decimal_display": "17.00",
+                            "fractional": "16/1",
+                            "fractional_display": "16/1"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 133639,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4846964682,
+                        "name": "Draw",
+                        "market_id": 1244865204,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "7.5",
+                            "decimal_display": "7.50",
+                            "fractional": "13/2",
+                            "fractional_display": "13/2"
+                        },
+                        "raw_prices": {
+                            "decimal": "7.5",
+                            "decimal_display": "7.50",
+                            "fractional": "13/2",
+                            "fractional_display": "13/2"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4846964683,
+                        "name": "FC Bayern M\u00fcnchen",
+                        "market_id": 1244865204,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.1428571429",
+                            "decimal_display": "1.14",
+                            "fractional": "1/7",
+                            "fractional_display": "1/7"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.1428571429",
+                            "decimal_display": "1.14",
+                            "fractional": "1/7",
+                            "fractional_display": "1/7"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 9159,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": true,
+                "betbuilder_availability": "all",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36153386,
+            "name": "Olympique Marseille v Ajax",
+            "type": "match",
+            "slug": "olympique-marseille-v-ajax",
+            "start_time": "2025-09-30T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 188,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244865569,
+            "home_team": "Olympique Marseille",
+            "away_team": "Ajax",
+            "home_team_id": 9212,
+            "away_team_id": 9674,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Marseille_1f0d05068e.png?updated_at=2023-03-30T14:25:42.277Z",
+            "away_image_url": "https://assets.midnite.com/cms/Ajax_79326ab947.png?width=100&height=100",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369745,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244865569,
+                "match_id": 36153386,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4846966036,
+                        "name": "Olympique Marseille",
+                        "market_id": 1244865569,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.5714285714",
+                            "decimal_display": "1.57",
+                            "fractional": "4/7",
+                            "fractional_display": "4/7"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.5714285714",
+                            "decimal_display": "1.57",
+                            "fractional": "4/7",
+                            "fractional_display": "4/7"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 9212,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4846966037,
+                        "name": "Draw",
+                        "market_id": 1244865569,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "4",
+                            "decimal_display": "4.00",
+                            "fractional": "3/1",
+                            "fractional_display": "3/1"
+                        },
+                        "raw_prices": {
+                            "decimal": "4",
+                            "decimal_display": "4.00",
+                            "fractional": "3/1",
+                            "fractional_display": "3/1"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4846966038,
+                        "name": "Ajax",
+                        "market_id": 1244865569,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "5.25",
+                            "decimal_display": "5.25",
+                            "fractional": "17/4",
+                            "fractional_display": "17/4"
+                        },
+                        "raw_prices": {
+                            "decimal": "5.25",
+                            "decimal_display": "5.25",
+                            "fractional": "17/4",
+                            "fractional_display": "17/4"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 9674,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": true,
+                "betbuilder_availability": "all",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36153435,
+            "name": "Galatasaray SK v Liverpool",
+            "type": "match",
+            "slug": "galatasaray-sk-v-liverpool",
+            "start_time": "2025-09-30T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 187,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244868407,
+            "home_team": "Galatasaray SK",
+            "away_team": "Liverpool",
+            "home_team_id": 12383,
+            "away_team_id": 8893,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Galatasaray_63395ef8cc.png",
+            "away_image_url": "https://assets.midnite.com/cms/Liverpool_2c87ef858f.png",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369743,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244868407,
+                "match_id": 36153435,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4846975320,
+                        "name": "Galatasaray SK",
+                        "market_id": 1244868407,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "4.6",
+                            "decimal_display": "4.60",
+                            "fractional": "18/5",
+                            "fractional_display": "18/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "4.6",
+                            "decimal_display": "4.60",
+                            "fractional": "18/5",
+                            "fractional_display": "18/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 12383,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4846975321,
+                        "name": "Draw",
+                        "market_id": 1244868407,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "4.2",
+                            "decimal_display": "4.20",
+                            "fractional": "16/5",
+                            "fractional_display": "16/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "4.2",
+                            "decimal_display": "4.20",
+                            "fractional": "16/5",
+                            "fractional_display": "16/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4846975322,
+                        "name": "Liverpool",
+                        "market_id": 1244868407,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.6153846154",
+                            "decimal_display": "1.62",
+                            "fractional": "8/13",
+                            "fractional_display": "8/13"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.6153846154",
+                            "decimal_display": "1.62",
+                            "fractional": "8/13",
+                            "fractional_display": "8/13"
+                        },
+                        "historical_prices": [],
+                        "multi_available": true,
+                        "team_id": 8893,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": true,
+                "betbuilder_availability": "all",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36153410,
+            "name": "Union Saint Gilloise v Newcastle United",
+            "type": "match",
+            "slug": "union-saint-gilloise-v-newcastle-united",
+            "start_time": "2025-10-01T16:45:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 82,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244866234,
+            "home_team": "Union Saint Gilloise",
+            "away_team": "Newcastle United",
+            "home_team_id": 51752,
+            "away_team_id": 8898,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Union_Saint_Gilloise_d9774a5779.png?updated_at=2023-03-07T17:04:36.018Z",
+            "away_image_url": "https://assets.midnite.com/cms/Newcastle_United_5dc3030352.png",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369751,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244866234,
+                "match_id": 36153410,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4846968229,
+                        "name": "Union Saint Gilloise",
+                        "market_id": 1244866234,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.2",
+                            "decimal_display": "3.20",
+                            "fractional": "11/5",
+                            "fractional_display": "11/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.2",
+                            "decimal_display": "3.20",
+                            "fractional": "11/5",
+                            "fractional_display": "11/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 51752,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4846968230,
+                        "name": "Draw",
+                        "market_id": 1244866234,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.4",
+                            "decimal_display": "3.40",
+                            "fractional": "12/5",
+                            "fractional_display": "12/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.4",
+                            "decimal_display": "3.40",
+                            "fractional": "12/5",
+                            "fractional_display": "12/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4846968231,
+                        "name": "Newcastle United",
+                        "market_id": 1244866234,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "2.15",
+                            "decimal_display": "2.15",
+                            "fractional": "23/20",
+                            "fractional_display": "23/20"
+                        },
+                        "raw_prices": {
+                            "decimal": "2.15",
+                            "decimal_display": "2.15",
+                            "fractional": "23/20",
+                            "fractional_display": "23/20"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 8898,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36156526,
+            "name": "FK Qarabag v FC K\u00f8benhavn",
+            "type": "match",
+            "slug": "fk-qarabag-v-fc-kobenhavn",
+            "start_time": "2025-10-01T16:45:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 73,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244997343,
+            "home_team": "FK Qarabag",
+            "away_team": "FC K\u00f8benhavn",
+            "home_team_id": 40553,
+            "away_team_id": 41461,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Qarabag_FK_1cb84ced47.png",
+            "away_image_url": "https://assets.midnite.com/cms/FC_Kobenhavn_0eebe9fccd.png?updated_at=2024-02-13T10:22:24.698Z",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369749,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244997343,
+                "match_id": 36156526,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4847438588,
+                        "name": "FK Qarabag",
+                        "market_id": 1244997343,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "2.8",
+                            "decimal_display": "2.80",
+                            "fractional": "9/5",
+                            "fractional_display": "9/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "2.8",
+                            "decimal_display": "2.80",
+                            "fractional": "9/5",
+                            "fractional_display": "9/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 40553,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4847438589,
+                        "name": "Draw",
+                        "market_id": 1244997343,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.3",
+                            "decimal_display": "3.30",
+                            "fractional": "23/10",
+                            "fractional_display": "23/10"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.3",
+                            "decimal_display": "3.30",
+                            "fractional": "23/10",
+                            "fractional_display": "23/10"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4847438590,
+                        "name": "FC K\u00f8benhavn",
+                        "market_id": 1244997343,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "2.4",
+                            "decimal_display": "2.40",
+                            "fractional": "7/5",
+                            "fractional_display": "7/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "2.4",
+                            "decimal_display": "2.40",
+                            "fractional": "7/5",
+                            "fractional_display": "7/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 41461,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36093125,
+            "name": "Borussia Dortmund v Athletic Bilbao",
+            "type": "match",
+            "slug": "borussia-dortmund-v-athletic-bilbao",
+            "start_time": "2025-10-01T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 82,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1241518093,
+            "home_team": "Borussia Dortmund",
+            "away_team": "Athletic Bilbao",
+            "home_team_id": 9202,
+            "away_team_id": 9196,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Dortmund_c91e43385e.png?updated_at=2023-03-07T17:04:14.196Z",
+            "away_image_url": "https://assets.midnite.com/cms/Athletic_Club_1ad333d372.png?updated_at=2023-03-27T09:47:29.439Z",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369759,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1241518093,
+                "match_id": 36093125,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4833431418,
+                        "name": "Borussia Dortmund",
+                        "market_id": 1241518093,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.8",
+                            "decimal_display": "1.80",
+                            "fractional": "4/5",
+                            "fractional_display": "4/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.8",
+                            "decimal_display": "1.80",
+                            "fractional": "4/5",
+                            "fractional_display": "4/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 9202,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4833431419,
+                        "name": "Draw",
+                        "market_id": 1241518093,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.6",
+                            "decimal_display": "3.60",
+                            "fractional": "13/5",
+                            "fractional_display": "13/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.6",
+                            "decimal_display": "3.60",
+                            "fractional": "13/5",
+                            "fractional_display": "13/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4833431420,
+                        "name": "Athletic Bilbao",
+                        "market_id": 1241518093,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "4.2",
+                            "decimal_display": "4.20",
+                            "fractional": "16/5",
+                            "fractional_display": "16/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "4.2",
+                            "decimal_display": "4.20",
+                            "fractional": "16/5",
+                            "fractional_display": "16/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 9196,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36153325,
+            "name": "Leverkusen v PSV Eindhoven",
+            "type": "match",
+            "slug": "leverkusen-v-psv-eindhoven",
+            "start_time": "2025-10-01T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 82,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244860751,
+            "home_team": "Leverkusen",
+            "away_team": "PSV Eindhoven",
+            "home_team_id": 9166,
+            "away_team_id": 9676,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Bayern_Leverkusen_19721415a3.png?updated_at=2023-03-07T17:04:36.110Z",
+            "away_image_url": "https://assets.midnite.com/cms/PSV_Eindhoven_2f0676cf9e.png?width=100&height=101",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369757,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244860751,
+                "match_id": 36153325,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4846947464,
+                        "name": "Leverkusen",
+                        "market_id": 1244860751,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.85",
+                            "decimal_display": "1.85",
+                            "fractional": "17/20",
+                            "fractional_display": "17/20"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.85",
+                            "decimal_display": "1.85",
+                            "fractional": "17/20",
+                            "fractional_display": "17/20"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 9166,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4846947465,
+                        "name": "Draw",
+                        "market_id": 1244860751,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.8",
+                            "decimal_display": "3.80",
+                            "fractional": "14/5",
+                            "fractional_display": "14/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.8",
+                            "decimal_display": "3.80",
+                            "fractional": "14/5",
+                            "fractional_display": "14/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4846947466,
+                        "name": "PSV Eindhoven",
+                        "market_id": 1244860751,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.75",
+                            "decimal_display": "3.75",
+                            "fractional": "11/4",
+                            "fractional_display": "11/4"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.75",
+                            "decimal_display": "3.75",
+                            "fractional": "11/4",
+                            "fractional_display": "11/4"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 9676,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36153424,
+            "name": "AS Monaco v Man City",
+            "type": "match",
+            "slug": "as-monaco-v-man-city",
+            "start_time": "2025-10-01T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 82,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244867434,
+            "home_team": "AS Monaco",
+            "away_team": "Man City",
+            "home_team_id": 9207,
+            "away_team_id": 8901,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Monaco_17d766f058.png?updated_at=2023-03-30T14:25:42.358Z",
+            "away_image_url": "https://assets.midnite.com/cms/Manchester_City_202ff0033d.png",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369755,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244867434,
+                "match_id": 36153424,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4846972288,
+                        "name": "AS Monaco",
+                        "market_id": 1244867434,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "4.6",
+                            "decimal_display": "4.60",
+                            "fractional": "18/5",
+                            "fractional_display": "18/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "4.6",
+                            "decimal_display": "4.60",
+                            "fractional": "18/5",
+                            "fractional_display": "18/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 9207,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4846972289,
+                        "name": "Draw",
+                        "market_id": 1244867434,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "4",
+                            "decimal_display": "4.00",
+                            "fractional": "3/1",
+                            "fractional_display": "3/1"
+                        },
+                        "raw_prices": {
+                            "decimal": "4",
+                            "decimal_display": "4.00",
+                            "fractional": "3/1",
+                            "fractional_display": "3/1"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4846972290,
+                        "name": "Man City",
+                        "market_id": 1244867434,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.6666666667",
+                            "decimal_display": "1.67",
+                            "fractional": "4/6",
+                            "fractional_display": "4/6"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.6666666667",
+                            "decimal_display": "1.67",
+                            "fractional": "4/6",
+                            "fractional_display": "4/6"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 8901,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36153425,
+            "name": "Villarreal v Juventus",
+            "type": "match",
+            "slug": "villarreal-v-juventus",
+            "start_time": "2025-10-01T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 82,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244869684,
+            "home_team": "Villarreal",
+            "away_team": "Juventus",
+            "home_team_id": 9162,
+            "away_team_id": 9250,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Villarreal_e22cf4f0f8.png?updated_at=2023-03-27T09:47:33.775Z",
+            "away_image_url": "https://assets.midnite.com/cms/Juventus_a79b81bc5e.png?updated_at=2023-03-07T17:04:36.111Z",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369765,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244869684,
+                "match_id": 36153425,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4846979722,
+                        "name": "Villarreal",
+                        "market_id": 1244869684,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "2.3",
+                            "decimal_display": "2.30",
+                            "fractional": "13/10",
+                            "fractional_display": "13/10"
+                        },
+                        "raw_prices": {
+                            "decimal": "2.3",
+                            "decimal_display": "2.30",
+                            "fractional": "13/10",
+                            "fractional_display": "13/10"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 9162,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4846979723,
+                        "name": "Draw",
+                        "market_id": 1244869684,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.2",
+                            "decimal_display": "3.20",
+                            "fractional": "11/5",
+                            "fractional_display": "11/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.2",
+                            "decimal_display": "3.20",
+                            "fractional": "11/5",
+                            "fractional_display": "11/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4846979724,
+                        "name": "Juventus",
+                        "market_id": 1244869684,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3",
+                            "decimal_display": "3.00",
+                            "fractional": "2/1",
+                            "fractional_display": "2/1"
+                        },
+                        "raw_prices": {
+                            "decimal": "3",
+                            "decimal_display": "3.00",
+                            "fractional": "2/1",
+                            "fractional_display": "2/1"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 9250,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36153471,
+            "name": "Napoli v Sporting CP",
+            "type": "match",
+            "slug": "napoli-v-sporting-cp",
+            "start_time": "2025-10-01T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 82,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244868674,
+            "home_team": "Napoli",
+            "away_team": "Sporting CP",
+            "home_team_id": 9259,
+            "away_team_id": 10154,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Napoli_01d4f11dee.png?updated_at=2023-03-07T17:04:14.194Z",
+            "away_image_url": "https://assets.midnite.com/cms/Sporting_5c4f5de68f.png?updated_at=2024-10-04T14:32:14.420Z",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369763,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244868674,
+                "match_id": 36153471,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4846976219,
+                        "name": "Napoli",
+                        "market_id": 1244868674,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.8",
+                            "decimal_display": "1.80",
+                            "fractional": "4/5",
+                            "fractional_display": "4/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.8",
+                            "decimal_display": "1.80",
+                            "fractional": "4/5",
+                            "fractional_display": "4/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 9259,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4846976220,
+                        "name": "Draw",
+                        "market_id": 1244868674,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.6",
+                            "decimal_display": "3.60",
+                            "fractional": "13/5",
+                            "fractional_display": "13/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.6",
+                            "decimal_display": "3.60",
+                            "fractional": "13/5",
+                            "fractional_display": "13/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4846976221,
+                        "name": "Sporting CP",
+                        "market_id": 1244868674,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "4.2",
+                            "decimal_display": "4.20",
+                            "fractional": "16/5",
+                            "fractional_display": "16/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "4.2",
+                            "decimal_display": "4.20",
+                            "fractional": "16/5",
+                            "fractional_display": "16/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 10154,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36153893,
+            "name": "Arsenal v Olympiacos",
+            "type": "match",
+            "slug": "arsenal-v-olympiacos",
+            "start_time": "2025-10-01T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 82,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244879596,
+            "home_team": "Arsenal",
+            "away_team": "Olympiacos",
+            "home_team_id": 8895,
+            "away_team_id": 9675,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Arsenal_f5afe6fd36.png",
+            "away_image_url": "https://assets.midnite.com/cms/Olympiacos_afb53f0388.png?updated_at=2024-05-02T13:46:47.703Z",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369753,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244879596,
+                "match_id": 36153893,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4847019017,
+                        "name": "Arsenal",
+                        "market_id": 1244879596,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.2222222222",
+                            "decimal_display": "1.22",
+                            "fractional": "2/9",
+                            "fractional_display": "2/9"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.2222222222",
+                            "decimal_display": "1.22",
+                            "fractional": "2/9",
+                            "fractional_display": "2/9"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 8895,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4847019018,
+                        "name": "Draw",
+                        "market_id": 1244879596,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "5.75",
+                            "decimal_display": "5.75",
+                            "fractional": "19/4",
+                            "fractional_display": "19/4"
+                        },
+                        "raw_prices": {
+                            "decimal": "5.75",
+                            "decimal_display": "5.75",
+                            "fractional": "19/4",
+                            "fractional_display": "19/4"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4847019019,
+                        "name": "Olympiacos",
+                        "market_id": 1244879596,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "11",
+                            "decimal_display": "11.00",
+                            "fractional": "10/1",
+                            "fractional_display": "10/1"
+                        },
+                        "raw_prices": {
+                            "decimal": "11",
+                            "decimal_display": "11.00",
+                            "fractional": "10/1",
+                            "fractional_display": "10/1"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 9675,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36156587,
+            "name": "FC Barcelona v Paris Saint-Germain",
+            "type": "match",
+            "slug": "fc-barcelona-v-paris-saint-germain",
+            "start_time": "2025-10-01T19:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": false,
+            "num_markets": 82,
+            "num_boosts": 0,
+            "displayed_format": "",
+            "stats_available": false,
+            "game_id": 23,
+            "game_name": "Football",
+            "competition_id": 31008870,
+            "competition_name": "UEFA Champions League",
+            "competition_slug": "2025-2026-uefa-champions-league",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1244999772,
+            "home_team": "FC Barcelona",
+            "away_team": "Paris Saint-Germain",
+            "home_team_id": 9204,
+            "away_team_id": 9218,
+            "home_team_colour": "#FA3C53",
+            "away_team_colour": "#3874FF",
+            "home_image_url": "https://assets.midnite.com/cms/Barcelona_d7a8012dc2.png?updated_at=2023-03-27T09:47:30.342Z",
+            "away_image_url": "https://assets.midnite.com/cms/PSG_99801ff9f9.png?updated_at=2023-03-07T17:04:14.104Z",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/europe.png",
+            "visualisation": {
+                "id": 63369761,
+                "pitch": true,
+                "stats": true,
+                "scoreboard": true
+            },
+            "market": {
+                "id": 1244999772,
+                "match_id": 36156587,
+                "name": "Match Result",
+                "status": "open",
+                "display_order": 1,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4847447804,
+                        "name": "FC Barcelona",
+                        "market_id": 1244999772,
+                        "display_order": 10,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.95",
+                            "decimal_display": "1.95",
+                            "fractional": "19/20",
+                            "fractional_display": "19/20"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.95",
+                            "decimal_display": "1.95",
+                            "fractional": "19/20",
+                            "fractional_display": "19/20"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 9204,
+                        "outcome": "Home"
+                    },
+                    {
+                        "id": 4847447805,
+                        "name": "Draw",
+                        "market_id": 1244999772,
+                        "display_order": 20,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.9",
+                            "decimal_display": "3.90",
+                            "fractional": "29/10",
+                            "fractional_display": "29/10"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.9",
+                            "decimal_display": "3.90",
+                            "fractional": "29/10",
+                            "fractional_display": "29/10"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "outcome": "Draw"
+                    },
+                    {
+                        "id": 4847447806,
+                        "name": "Paris Saint-Germain",
+                        "market_id": 1244999772,
+                        "display_order": 30,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3.25",
+                            "decimal_display": "3.25",
+                            "fractional": "9/4",
+                            "fractional_display": "9/4"
+                        },
+                        "raw_prices": {
+                            "decimal": "3.25",
+                            "decimal_display": "3.25",
+                            "fractional": "9/4",
+                            "fractional_display": "9/4"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 9218,
+                        "outcome": "Away"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        }
+    ],
+    "filters": {
+        "markets": [
+            {
+                "key": "Match Result",
+                "name": "Match Result",
+                "active": false
+            },
+            {
+                "key": "Double Chance",
+                "name": "Double Chance",
+                "active": false
+            },
+            {
+                "key": "Both Teams to Score",
+                "name": "Both Teams to Score",
+                "active": false
+            },
+            {
+                "key": "Total Goals",
+                "name": "Total Goals",
+                "active": false
+            },
+            {
+                "key": "1st Half - Result",
+                "name": "1st Half - Result",
+                "active": false
+            }
+        ]
+    },
+    "page": 0,
+    "page_size": 20,
+    "pages": 1
+}

@@ -1,0 +1,444 @@
+{
+    "data": [
+        {
+            "id": 36727087,
+            "name": "AVULUS v Yellow Submarine",
+            "type": "match",
+            "slug": "avulus-v-yellow-submarine",
+            "start_time": "2025-09-26T12:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": true,
+            "num_markets": 32,
+            "num_boosts": 0,
+            "displayed_format": "BO3",
+            "stats_available": false,
+            "game_id": 1,
+            "game_name": "Dota 2",
+            "competition_id": 33020747,
+            "competition_name": "BLAST Slam",
+            "competition_slug": "2025-blast-slam-iv",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1279446467,
+            "home_team": "AVULUS",
+            "away_team": "Yellow Submarine",
+            "home_team_id": 83175660,
+            "away_team_id": 7310,
+            "home_team_colour": null,
+            "away_team_colour": null,
+            "home_image_url": "https://img.abiosgaming.com/competitors/team-AVULUS.png",
+            "away_image_url": "https://img.abiosgaming.com/competitors/Yellow-Submarine.png",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/world.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/world.png",
+            "visualisation": null,
+            "twitch_channel": null,
+            "stream_url": null,
+            "best_of": 3,
+            "market": {
+                "id": 1279446467,
+                "match_id": 36727087,
+                "name": "Match Winner",
+                "status": "open",
+                "display_order": 0,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4999819951,
+                        "name": "AVULUS",
+                        "market_id": 1279446467,
+                        "display_order": 1,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.4",
+                            "decimal_display": "1.40",
+                            "fractional": "2/5",
+                            "fractional_display": "2/5"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.4",
+                            "decimal_display": "1.40",
+                            "fractional": "2/5",
+                            "fractional_display": "2/5"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 83175660,
+                        "outcome": "AVULUS"
+                    },
+                    {
+                        "id": 4999819952,
+                        "name": "Yellow Submarine",
+                        "market_id": 1279446467,
+                        "display_order": 2,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "2.625",
+                            "decimal_display": "2.63",
+                            "fractional": "13/8",
+                            "fractional_display": "13/8"
+                        },
+                        "raw_prices": {
+                            "decimal": "2.625",
+                            "decimal_display": "2.63",
+                            "fractional": "13/8",
+                            "fractional_display": "13/8"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 7310,
+                        "outcome": "Yellow Submarine"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36727103,
+            "name": "OG v Kalmychata",
+            "type": "match",
+            "slug": "og-v-kalmychata",
+            "start_time": "2025-09-26T12:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": true,
+            "num_markets": 35,
+            "num_boosts": 0,
+            "displayed_format": "BO3",
+            "stats_available": false,
+            "game_id": 1,
+            "game_name": "Dota 2",
+            "competition_id": 33020747,
+            "competition_name": "BLAST Slam",
+            "competition_slug": "2025-blast-slam-iv",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1279449043,
+            "home_team": "OG",
+            "away_team": "Kalmychata",
+            "home_team_id": 265,
+            "away_team_id": 21521307,
+            "home_team_colour": null,
+            "away_team_colour": null,
+            "home_image_url": "https://img.abiosgaming.com/competitors/2017-OG-Red-bull-logo.png",
+            "away_image_url": "https://assets.midnite.com/teams/kalmychata-logo.png",
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/world.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/world.png",
+            "visualisation": null,
+            "twitch_channel": null,
+            "stream_url": null,
+            "best_of": 3,
+            "market": {
+                "id": 1279449043,
+                "match_id": 36727103,
+                "name": "Match Winner",
+                "status": "open",
+                "display_order": 0,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 4999830660,
+                        "name": "OG",
+                        "market_id": 1279449043,
+                        "display_order": 1,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.6153846154",
+                            "decimal_display": "1.62",
+                            "fractional": "8/13",
+                            "fractional_display": "8/13"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.6153846154",
+                            "decimal_display": "1.62",
+                            "fractional": "8/13",
+                            "fractional_display": "8/13"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 265,
+                        "outcome": "OG"
+                    },
+                    {
+                        "id": 4999830661,
+                        "name": "Kalmychata",
+                        "market_id": 1279449043,
+                        "display_order": 2,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "2.1",
+                            "decimal_display": "2.10",
+                            "fractional": "11/10",
+                            "fractional_display": "11/10"
+                        },
+                        "raw_prices": {
+                            "decimal": "2.1",
+                            "decimal_display": "2.10",
+                            "fractional": "11/10",
+                            "fractional_display": "11/10"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 21521307,
+                        "outcome": "Kalmychata"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36746745,
+            "name": "BOOM Esports v Team Nemesis",
+            "type": "match",
+            "slug": "boom-esports-v-team-nemesis",
+            "start_time": "2025-09-26T12:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": true,
+            "num_markets": 14,
+            "num_boosts": 0,
+            "displayed_format": "BO3",
+            "stats_available": false,
+            "game_id": 1,
+            "game_name": "Dota 2",
+            "competition_id": 33020747,
+            "competition_name": "BLAST Slam",
+            "competition_slug": "2025-blast-slam-iv",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1279719346,
+            "home_team": "BOOM Esports",
+            "away_team": "Team Nemesis",
+            "home_team_id": 92,
+            "away_team_id": 285431809,
+            "home_team_colour": null,
+            "away_team_colour": null,
+            "home_image_url": "https://img.abiosgaming.com/competitors/Boom-teamlogo.png",
+            "away_image_url": null,
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/world.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/world.png",
+            "visualisation": null,
+            "twitch_channel": null,
+            "stream_url": null,
+            "best_of": 3,
+            "market": {
+                "id": 1279719346,
+                "match_id": 36746745,
+                "name": "Match Winner",
+                "status": "open",
+                "display_order": 0,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 5000904861,
+                        "name": "BOOM Esports",
+                        "market_id": 1279719346,
+                        "display_order": 1,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.3",
+                            "decimal_display": "1.30",
+                            "fractional": "3/10",
+                            "fractional_display": "3/10"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.3",
+                            "decimal_display": "1.30",
+                            "fractional": "3/10",
+                            "fractional_display": "3/10"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 92,
+                        "outcome": "BOOM Esports"
+                    },
+                    {
+                        "id": 5000904862,
+                        "name": "Team Nemesis",
+                        "market_id": 1279719346,
+                        "display_order": 2,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "3",
+                            "decimal_display": "3.00",
+                            "fractional": "2/1",
+                            "fractional_display": "2/1"
+                        },
+                        "raw_prices": {
+                            "decimal": "3",
+                            "decimal_display": "3.00",
+                            "fractional": "2/1",
+                            "fractional_display": "2/1"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 285431809,
+                        "outcome": "Team Nemesis"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        },
+        {
+            "id": 36753248,
+            "name": "The Mongolz v Team Aureus",
+            "type": "match",
+            "slug": "the-mongolz-v-team-aureus",
+            "start_time": "2025-09-26T12:00:00.000000Z",
+            "status": "upcoming",
+            "live_enabled": true,
+            "num_markets": 8,
+            "num_boosts": 0,
+            "displayed_format": "BO3",
+            "stats_available": false,
+            "game_id": 1,
+            "game_name": "Dota 2",
+            "competition_id": 33020747,
+            "competition_name": "BLAST Slam",
+            "competition_slug": "2025-blast-slam-iv",
+            "stream_available": false,
+            "score": {},
+            "main_market_id": 1280019532,
+            "home_team": "The Mongolz",
+            "away_team": "Team Aureus",
+            "home_team_id": 124795583,
+            "away_team_id": 400935440,
+            "home_team_colour": null,
+            "away_team_colour": null,
+            "home_image_url": null,
+            "away_image_url": null,
+            "competition_region_image_url": "https://assets.midnite.com/regions/icons/world.png",
+            "competition_display_image_url": "https://assets.midnite.com/regions/icons/world.png",
+            "visualisation": null,
+            "twitch_channel": null,
+            "stream_url": null,
+            "best_of": 3,
+            "market": {
+                "id": 1280019532,
+                "match_id": 36753248,
+                "name": "Match Winner",
+                "status": "open",
+                "display_order": 0,
+                "popular": false,
+                "contracts": [
+                    {
+                        "id": 5002068140,
+                        "name": "The Mongolz",
+                        "market_id": 1280019532,
+                        "display_order": 1,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "5",
+                            "decimal_display": "5.00",
+                            "fractional": "4/1",
+                            "fractional_display": "4/1"
+                        },
+                        "raw_prices": {
+                            "decimal": "5",
+                            "decimal_display": "5.00",
+                            "fractional": "4/1",
+                            "fractional_display": "4/1"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 124795583,
+                        "outcome": "The Mongolz"
+                    },
+                    {
+                        "id": 5002068141,
+                        "name": "Team Aureus",
+                        "market_id": 1280019532,
+                        "display_order": 2,
+                        "raw_status": "open",
+                        "status": "open",
+                        "boosted": false,
+                        "payout_type": "cash",
+                        "start_price_available": false,
+                        "prices": {
+                            "decimal": "1.125",
+                            "decimal_display": "1.13",
+                            "fractional": "1/8",
+                            "fractional_display": "1/8"
+                        },
+                        "raw_prices": {
+                            "decimal": "1.125",
+                            "decimal_display": "1.13",
+                            "fractional": "1/8",
+                            "fractional_display": "1/8"
+                        },
+                        "historical_prices": [],
+                        "multi_available": false,
+                        "team_id": 400935440,
+                        "outcome": "Team Aureus"
+                    }
+                ],
+                "multi_available": false,
+                "betbuilder_availability": "unavailable",
+                "each_way": null
+            }
+        }
+    ],
+    "filters": {
+        "markets": [
+            {
+                "key": "Match Winner",
+                "name": "Match Winner",
+                "active": true
+            },
+            {
+                "key": "Match Handicap",
+                "name": "Match Handicap",
+                "active": false
+            },
+            {
+                "key": "Total Maps Played Over/Under",
+                "name": "Total Maps Played Over/Under",
+                "active": false
+            },
+            {
+                "key": "Map 1 - Winner",
+                "name": "Map 1 - Winner",
+                "active": false
+            },
+            {
+                "key": "Map 2 - Winner",
+                "name": "Map 2 - Winner",
+                "active": false
+            }
+        ]
+    },
+    "page": 0,
+    "page_size": 20,
+    "pages": 1
+}
